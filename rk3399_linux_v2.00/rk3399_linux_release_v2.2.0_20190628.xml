@@ -2,9 +2,9 @@
 <manifest>
   <remote fetch="git://git.openembedded.org" name="oe"/>
   <remote fetch="https://github.com/meta-qt5" name="qt5"/>
-  <remote fetch="." name="rockchip-linux" review="https://github.com/rockchip-linux/"/>
+  <remote fetch="." name="leez-SBC" review="https://github.com/leez-SBC/"/>
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
-  <default remote="rockchip-linux" revision="master" sync-j="4"/>
+  <default remote="leez-SBC" revision="master" sync-j="4"/>
 
   <project name="QLauncher" path="app/QLauncher" revision="dbd9b7562253c277e5010e1df0ed2dcc4fca4a21" upstream="master"/>
   <project name="alsa-config" path="external/alsa-config" revision="5a80dbcff93b5db40310910835649277f60048c4" upstream="master"/>
