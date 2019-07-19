@@ -20,7 +20,7 @@
   <project name="camera_engine_cifisp" path="external/camera_engine_cifisp" revision="1ca397689e2803445326dcddea49fa6b0757a416" upstream="master"/>
   <project name="camera_engine_rkisp" path="external/camera_engine_rkisp" revision="fe8e1563c787d607b6bf4dea0d5f32a8662d9445" upstream="master"/>
   <project name="demo" path="app/demo" revision="9c70bb34443f8a8c7b5987baf4b47dbb29d0a0c2" upstream="master"/>
-  <project name="device-custom" path="device/rockchip" revision="84375e231994eea6c79010397afa0581b8f0fa3c" upstream="master">
+  <project name="device-custom" path="device/rockchip" revision="3403d7f994b3dd49ff0fa556ef6465a389c70a90" upstream="master">
     <linkfile dest="mkfirmware.sh" src="common/mkfirmware.sh"/>
     <linkfile dest="build.sh" src="common/build.sh"/>
     <linkfile dest="sdboot.sh" src="common/sdboot.sh"/>
