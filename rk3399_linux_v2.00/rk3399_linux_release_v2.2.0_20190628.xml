@@ -66,7 +66,7 @@
   <project name="rkscript" path="external/rkscript" revision="625038f089e1fe56a437fe7d2318ab57191d9b5a" upstream="master"/>
   <project name="rkssd" path="external/rkssd" revision="1c50d336e770a8ce09ae33b3e09d2783d5b4c2d9" upstream="master"/>
   <project name="rkupdate" path="external/rkupdate" revision="000bc14833c2fa12ba45e9f87e0775977485b4f1" upstream="master"/>
-  <project name="rkwifibt" path="external/rkwifibt" upstream="master"/>
+  <project name="rkwifibt" path="external/rkwifibt" revision="5cfa7ef8a1dc3f723b3312fe91c451eaf77bae95" upstream="master"/>
   <project name="settings" path="app/settings" revision="d0cc205538c5da8b48817fbdb3aae403d21129e5" upstream="master"/>
   <project name="softapDemo" path="external/softapDemo" revision="4c7d1bd3d28df276d263f49324b022b44b3a1c85" upstream="master"/>
   <project name="softapServer" path="external/softapServer" revision="9158517316a050190273c6809ea88467a4276e16" upstream="master"/>
